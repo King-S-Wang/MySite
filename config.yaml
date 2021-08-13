@@ -1,5 +1,5 @@
 title: Vno Hugo
-baseURL: https://vno-hugo.netlify.app/
+baseURL: https://app.netlify.com/sites/naughty-khorana-ffa5ce/settings/domain
 theme: Vno-Hugo
 paginate: 10
 paginatePath: page

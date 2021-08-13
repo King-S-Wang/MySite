@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vno Hugo</title>
-    <link>https://vno-hugo.netlify.app/tags/</link>
+    <link>https://app.netlify.com/sites/naughty-khorana-ffa5ce/settings/domain/tags/</link>
     <description>Recent content in Tags on Vno Hugo</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vno-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://app.netlify.com/sites/naughty-khorana-ffa5ce/settings/domain/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
