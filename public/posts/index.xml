@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vno Hugo</title>
+    <link>https://vno-hugo.netlify.app/posts/</link>
+    <description>Recent content in Posts on Vno Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vno-hugo.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jiayi Wang-Resume</title>
+      <link>https://vno-hugo.netlify.app/2021/08/jiayi-wang-resume/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vno-hugo.netlify.app/2021/08/jiayi-wang-resume/</guid>
+      <description>jiayiwang.2020@mitb.smu.edu.sg+65 89424295linkedin.com/in/jiayi-wang-smuEDUCATIONSINGAPORE MANAGEMENT UNIVERSITY [Aug 2020- Dec 2021]
+Master of IT in Business (Analytics Track)
+Modules: Python, R, Tableau, Blockchain, MySQL
+Xiamen University, China [Sep 2015 - Jul 2019]
+Bachelor in Communication Engineering
+Modules: Arduino, C, Altium Design, Matlab
+EXPERIENCEUOB Group Banking Technology – Core Banking - Singapore [Jun 2021 -Dec 2021]</description>
+    </item>
+    
+    <item>
+      <title>王家奕简历</title>
+      <link>https://vno-hugo.netlify.app/2021/08/%E7%8E%8B%E5%AE%B6%E5%A5%95%E7%AE%80%E5%8E%86/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vno-hugo.netlify.app/2021/08/%E7%8E%8B%E5%AE%B6%E5%A5%95%E7%AE%80%E5%8E%86/</guid>
+      <description>邮箱： jiayiwang.2020@mitb.smu.edu.sg手机： +65 89424295领英： linkedin.com/in/jiayi-wang-smu教育背景新加坡管理大学 [2020.8 - 2021.12]
+商务信息学硕士 (数据分析)
+主修： Python, R, Tableau, 区块链, 数据库
+厦门大学 [2015.9 - 2019.7]
+通信工程
+主修: Arduino, C, Altium Design, Matlab
+实习经离UOB 大华银行核心技术部 - 新加坡 [2021.6 - 2021.12]
+数据分析实习生
+使用Python工具提取pdf内容并识别、自动更正银行合同中的错误
+检查不同国家 Linux 服务器的用户验收测试 (UAT) 和系统集成测试 (SIT) 以及这些数据库中的记录
+中国移动浙江分公司 - 中国 [2015.</description>
+    </item>
+    
+    <item>
+      <title>Food Lunch</title>
+      <link>https://vno-hugo.netlify.app/2021/01/food-lunch/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vno-hugo.netlify.app/2021/01/food-lunch/</guid>
+      <description>Dover Food Center</description>
+    </item>
+    
+  </channel>
+</rss>

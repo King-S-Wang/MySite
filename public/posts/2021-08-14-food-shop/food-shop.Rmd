@@ -1,0 +1,23 @@
+---
+title: Food Lunch
+author: 'Jiayi Wang'
+date: '2021-01-01'
+slug: food-shop
+categories: []
+tags: []
+layout: post
+math: no
+---
+
+# Dover Food Center
+
+
+![](img/Dover1.jpg)
+![](img/Dover2.jpg)
+![](img/Dover3.jpg)
+![](img/Dover4.jpg)
+![](img/Dover5.jpg)
+![](img/Dover6.jpg) 
+
+
+

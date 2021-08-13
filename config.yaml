@@ -1,0 +1,44 @@
+title: Vno Hugo
+baseURL: https://vno-hugo.netlify.app/
+theme: Vno-Hugo
+paginate: 10
+paginatePath: page
+outputs:
+  home:
+    - HTML
+    - RSS
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: https://datavisual-wjy.netlify.app/
+      weight: 10
+taxonomies:
+  tag: tags
+params:
+  author: Jiayi Wang
+  blogButton:
+    description: Visit blog
+    title: Blog
+  comment:
+    disqus: vno-hugo
+    duoshuo: ''
+    gitalk:
+      ID: ''
+      owner: ''
+      repo: ''
+      secret: ''
+  coverColor: red
+  description: The world is made up of data. Let's use data to change the world instead of abuse it.
+  ga:
+    ID: your_ga_id
+    host: your_host
+  social:
+    github: King-S-Wang
+    mail: jiayiwang.2020@mitb.smu.edu.sg
+    twitter: KngSWang1
+    weibo: oldkingya
+  subtitle: Xiamen University - Singapore Management University
+  welcomeMessage: Thank you for your interest in me :D
+permalinks:
+  posts: /:year/:month/:title/
